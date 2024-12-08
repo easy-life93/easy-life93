@@ -21,6 +21,7 @@ Let's connect and build the future together! 🌟
 
 ### Languages/Frameworks I'm good at:
 
+#### Frontend
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42">
 </a>
@@ -74,6 +75,7 @@ Let's connect and build the future together! 🌟
   <img alt="Vuetify" title="Vuetify" src="https://cdn.vuetifyjs.com/images/logos/logo.svg" height="42">
 </a>
 
+#### Backend
 <a href="https://www.php.net">
   <img alt="PHP" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="42">
 </a>
@@ -95,6 +97,7 @@ Let's connect and build the future together! 🌟
   <img alt="Flask" title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="42">
 </a>
 
+#### Backend Testing
 <a href="https://swagger.io">
   <img alt="Swagger" title="Swagger" src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" height="42">
 </a>
@@ -108,6 +111,7 @@ Let's connect and build the future together! 🌟
   <img alt="phpMyAdmin" title="phpMyAdmin" src="https://www.phpmyadmin.net/static/images/logo-og.png" height="42">
 </a>
 
+#### Database
 <a href="https://www.mysql.com">
   <img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="42">
 </a>
@@ -121,6 +125,7 @@ Let's connect and build the future together! 🌟
   <img alt="SQLite" title="SQLite" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height="42">
 </a>
 
+#### Version Control
 <a href="https://git-scm.com">
   <img alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42">
 </a>
@@ -137,6 +142,7 @@ Let's connect and build the future together! 🌟
   <img alt="Jira" title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" height="42">
 </a>
 
+#### Web Hosting & cloud
 <a href="https://nodejs.org">
   <img alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="42">
 </a>
