@@ -1,4 +1,4 @@
-![Banner Image](image/top.png)
+![Banner Image](image/EasyLife.jpg)
 
 ## Hi there! 👋 I'm Stephen Gusse, a passionate Software Engineer.
 
